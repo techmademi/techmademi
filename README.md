@@ -38,7 +38,10 @@ status: Always learning something new! 📚
 - ⚡ **Fun Fact:** I can automate your coffee machine deployment with Terraform! ☕
 
 ---
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 ## 🛠️ Tech Arsenal
 
 <div align="center">
