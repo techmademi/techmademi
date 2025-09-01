@@ -40,6 +40,7 @@ status: Always learning something new! 📚
 ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Azure Pipeline for Terraform Deployment &lpar;Dev &amp; Prod Environments&rpar;](https://dev.to/techmademi/azure-pipeline-4mhi)
 - [Terraform Module Example – Resource Group Creation on Azure](https://dev.to/techmademi/terraform-module-example-resource-group-creation-on-azure-281)
 <!-- BLOG-POST-LIST:END -->
 ---
